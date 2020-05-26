@@ -5,17 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-<<<<<<< HEAD
 *.bat
 
 # Distribution / packaging
 .Python
 .pypirc
-=======
-
-# Distribution / packaging
-.Python
->>>>>>> 6df23480c39463c43f2c3f5ffef290582a07f319
 build/
 develop-eggs/
 dist/
@@ -28,10 +22,6 @@ parts/
 sdist/
 var/
 wheels/
-<<<<<<< HEAD
-=======
-pip-wheel-metadata/
->>>>>>> 6df23480c39463c43f2c3f5ffef290582a07f319
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -58,10 +48,6 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-<<<<<<< HEAD
-=======
-*.py,cover
->>>>>>> 6df23480c39463c43f2c3f5ffef290582a07f319
 .hypothesis/
 .pytest_cache/
 
@@ -73,10 +59,6 @@ coverage.xml
 *.log
 local_settings.py
 db.sqlite3
-<<<<<<< HEAD
-=======
-db.sqlite3-journal
->>>>>>> 6df23480c39463c43f2c3f5ffef290582a07f319
 
 # Flask stuff:
 instance/
@@ -101,24 +83,8 @@ ipython_config.py
 # pyenv
 .python-version
 
-<<<<<<< HEAD
 # celery beat schedule file
 celerybeat-schedule
-=======
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
->>>>>>> 6df23480c39463c43f2c3f5ffef290582a07f319
 
 # SageMath parsed files
 *.sage.py
